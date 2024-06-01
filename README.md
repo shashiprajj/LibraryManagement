@@ -26,7 +26,7 @@ This project aims to simplify library management tasks, improve accessibility fo
 5. install all backend requirements using-> py -m pip freeze > requirements.txt
    
 6. Run migrations:
-   python manage.py makemigrations
+   python manage.py makemigrations, 
    python manage.py migrate
    
 8. Start the Django development server:
@@ -41,6 +41,7 @@ This project aims to simplify library management tasks, improve accessibility fo
    npm install
 
 4. Start the development server:
+   npm start
 
 ## Technologies Used
 
